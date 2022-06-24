@@ -1,7 +1,7 @@
 # HP-Omen-X-17-GTX-1080-Monterey
 Hackintosh Monterey 12.4, HP-Omen-X-17-GTX-1080
 
-
+![Monterey 12 4 (21F79)](https://user-images.githubusercontent.com/79387598/175447358-36b87c72-4885-498e-bb1a-98b97235131d.png)
 
 Big Sur 11.6.7, Monterey 12.4, Ventura 13.0 beta 2
 
